@@ -1,0 +1,1 @@
+This file is template file for 010editor, used to parse android binary xml file, and arsc file in apk 
