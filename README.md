@@ -7,7 +7,7 @@
 		特点：
 		1.修复之前某些command无法识别的bug及一些语法错误
 		2.load_dylib等command直接显示路径
-![image](https://github.com/lichao890427/010editor_script/blob/master/screenshots/macho.png)
+![image](https://github.com/lichao890427/010editor_script/blob/master/screenshots/macho_ext.png)
 
 ## xml_ext.bt
 		  该脚本用于识别android二进制xml文件，包括res/*.xml AndoidManifest.xml resource.arsc等，已收入官网
